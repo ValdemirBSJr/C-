@@ -1,0 +1,12 @@
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Debug\psicologia_prof_nelson.csprojResolveAssemblyReference.cache
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Debug\exibe.confi.resources
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Debug\exibe.Properties.Resources.resources
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Debug\psicologia_prof_nelson.csproj.GenerateResource.Cache
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\bin\Debug\psicologia_prof_nelson.exe
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\bin\Debug\psicologia_prof_nelson.pdb
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\bin\Debug\MySql.Data.dll
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Debug\psicologia_prof_nelson.exe
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Debug\psicologia_prof_nelson.pdb
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Debug\exibe.Form1.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Debug\exibe.fim.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Debug\exibe.analitico.resources

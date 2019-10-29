@@ -1,0 +1,9 @@
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\bin\Release\psicologia_prof_nelson.exe
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\bin\Release\psicologia_prof_nelson.pdb
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\bin\Release\MySql.Data.dll
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Release\exibe.confi.resources
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Release\exibe.Form1.resources
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Release\exibe.Properties.Resources.resources
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Release\psicologia_prof_nelson.csproj.GenerateResource.Cache
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Release\psicologia_prof_nelson.exe
+C:\Users\Valdemir\documents\visual studio 2010\Projects\psicologia_prof_nelson\psicologia_prof_nelson\obj\x86\Release\psicologia_prof_nelson.pdb
