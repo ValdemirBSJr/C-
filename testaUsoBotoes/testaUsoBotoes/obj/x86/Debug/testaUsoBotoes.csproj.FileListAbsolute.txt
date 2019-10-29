@@ -1,0 +1,7 @@
+c:\users\valdemir\documents\visual studio 2010\Projects\testaUsoBotoes\testaUsoBotoes\bin\Debug\testaUsoBotoes.exe
+c:\users\valdemir\documents\visual studio 2010\Projects\testaUsoBotoes\testaUsoBotoes\bin\Debug\testaUsoBotoes.pdb
+c:\users\valdemir\documents\visual studio 2010\Projects\testaUsoBotoes\testaUsoBotoes\obj\x86\Debug\testaUsoBotoes.Form1.resources
+c:\users\valdemir\documents\visual studio 2010\Projects\testaUsoBotoes\testaUsoBotoes\obj\x86\Debug\testaUsoBotoes.Properties.Resources.resources
+c:\users\valdemir\documents\visual studio 2010\Projects\testaUsoBotoes\testaUsoBotoes\obj\x86\Debug\testaUsoBotoes.csproj.GenerateResource.Cache
+c:\users\valdemir\documents\visual studio 2010\Projects\testaUsoBotoes\testaUsoBotoes\obj\x86\Debug\testaUsoBotoes.exe
+c:\users\valdemir\documents\visual studio 2010\Projects\testaUsoBotoes\testaUsoBotoes\obj\x86\Debug\testaUsoBotoes.pdb

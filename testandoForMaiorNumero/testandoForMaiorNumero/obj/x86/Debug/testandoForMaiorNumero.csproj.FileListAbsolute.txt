@@ -1,0 +1,4 @@
+c:\users\valdemir\documents\visual studio 2010\Projects\testandoForMaiorNumero\testandoForMaiorNumero\bin\Debug\testandoForMaiorNumero.exe
+c:\users\valdemir\documents\visual studio 2010\Projects\testandoForMaiorNumero\testandoForMaiorNumero\bin\Debug\testandoForMaiorNumero.pdb
+c:\users\valdemir\documents\visual studio 2010\Projects\testandoForMaiorNumero\testandoForMaiorNumero\obj\x86\Debug\testandoForMaiorNumero.exe
+c:\users\valdemir\documents\visual studio 2010\Projects\testandoForMaiorNumero\testandoForMaiorNumero\obj\x86\Debug\testandoForMaiorNumero.pdb
