@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "catapora-bkp", "catapora-bkp\catapora-bkp.csproj", "{2603A806-3B3F-489A-AEFB-FB6A4B7D881E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2603A806-3B3F-489A-AEFB-FB6A4B7D881E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2603A806-3B3F-489A-AEFB-FB6A4B7D881E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2603A806-3B3F-489A-AEFB-FB6A4B7D881E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2603A806-3B3F-489A-AEFB-FB6A4B7D881E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
