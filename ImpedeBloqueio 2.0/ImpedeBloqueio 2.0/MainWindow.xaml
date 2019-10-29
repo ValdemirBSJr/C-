@@ -1,0 +1,27 @@
+﻿<Window x:Class="ImpedeBloqueio_2._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Impede Bloqueio 2.0" Height="275" Width="461" Loaded="Window_Loaded" Icon="/ImpedeBloqueio%202.0;component/icone.ico" WindowStyle="None" Background="#FF271F1F" ResizeMode="NoResize">
+    <Grid Height="307" Width="448" Loaded="Grid_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="304*" />
+            <ColumnDefinition Width="144*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="179*" />
+            <RowDefinition Height="99*" />
+        </Grid.RowDefinitions>
+        <Button Content="Impedir" Height="39" HorizontalAlignment="Left" Margin="288,36,0,0" Name="btnComecar" VerticalAlignment="Top" Width="124" Click="btnComecar_Click" Background="#FF0E5EBC" BorderBrush="#FFF8EFEF" FontSize="13" FontFamily="Arial" FontStretch="Normal" FontStyle="Normal" FontWeight="ExtraBold" Foreground="#FFF5ECEC" ClickMode="Press" Grid.ColumnSpan="2"></Button>
+        <Button Background="#FF0E5EBC" BorderBrush="#FFF8EFEF" ClickMode="Press" Content="Cancelar" FontFamily="Arial" FontSize="13" FontStretch="Normal" FontStyle="Normal" FontWeight="ExtraBold" Foreground="#FFF5ECEC" Height="27" HorizontalAlignment="Left" Margin="288,86,0,0" Name="btnCancelar" VerticalAlignment="Top" Width="124" Click="btnCancelar_Click" Grid.ColumnSpan="2" />
+        <MediaElement Height="142" HorizontalAlignment="Left" Margin="12,26,0,0" Name="mediaElement1" VerticalAlignment="Top" Width="235" Visibility="Hidden" MediaEnded="gifHousePlay"  LoadedBehavior="Play"  UnloadedBehavior="Manual"  />
+        <Label Content="Você pode não perceber, mas estamos trabalhando!" Height="32" HorizontalAlignment="Left" Margin="12,166,0,0" Name="lblMensagem" VerticalAlignment="Top" Visibility="Hidden" Foreground="#FFD8D2D2" FontStretch="Normal" Grid.ColumnSpan="2" Width="375" FontWeight="Bold" FontSize="15" />
+        <Label Content="Usuário logado: " Height="28" HorizontalAlignment="Left" Margin="251,123,0,0" Name="label1" VerticalAlignment="Top" Foreground="#FFD8D2D2" Grid.ColumnSpan="2" FontSize="14" FontWeight="Bold" />
+        <Label Content="Label" Height="28" HorizontalAlignment="Left" Margin="54,123,0,0" Name="lblUser" VerticalAlignment="Top" Width="81" Foreground="#FFD8D2D2" Grid.Column="1" FontSize="14" FontWeight="Bold" />
+        <Label Content="Label" Height="24" HorizontalAlignment="Left" Margin="12,34,0,0" Name="lblHora" VerticalAlignment="Top" Width="202" Foreground="#FFD8D2D2" Grid.Row="1" />
+        <Label Content="Label" Height="24" HorizontalAlignment="Left" Margin="50,34,0,0" Name="lblTempExecucao" VerticalAlignment="Top" Width="85" Foreground="#FFD8D2D2" Grid.Row="1" Grid.Column="1" />
+        <Label Content="Tempo em execução: " Height="24" HorizontalAlignment="Left" Margin="220,34,0,0" Name="label4" VerticalAlignment="Top" Width="128" Foreground="#FFD8D2D2" Grid.Row="1" Grid.ColumnSpan="2" />
+        <Button Content="X" Height="23" HorizontalAlignment="Left" Margin="105,0,0,0" Name="btnFechar" VerticalAlignment="Top" Width="27" Click="button1_Click" MouseEnter="button1_MouseEnter" MouseLeave="btnFechar_MouseLeave" Grid.Column="1" />
+        <Button Content="_" Height="23" HorizontalAlignment="Left" Margin="72,0,0,0" Name="button1" VerticalAlignment="Top" Width="27" Click="button1_Click_1" Grid.Column="1" />
+        <Label Content="Impede Bloqueio 2.0 - Powered by N5669203" Height="28" HorizontalAlignment="Left" Margin="0,-1,0,0" Name="label2" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Segoe UI" FontStretch="Normal" FontStyle="Normal" Foreground="#FFE6DEDE"></Label>
+    </Grid>
+</Window>

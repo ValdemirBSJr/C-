@@ -1,0 +1,11 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ImpedeBloqueio 2.0\ImpedeBloqueio 2.0\bin\Debug\ImpedeBloqueio 2.0.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ImpedeBloqueio 2.0\ImpedeBloqueio 2.0\bin\Debug\ImpedeBloqueio 2.0.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ImpedeBloqueio 2.0\ImpedeBloqueio 2.0\obj\x86\Debug\MainWindow.baml
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ImpedeBloqueio 2.0\ImpedeBloqueio 2.0\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ImpedeBloqueio 2.0\ImpedeBloqueio 2.0\obj\x86\Debug\App.g.cs
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ImpedeBloqueio 2.0\ImpedeBloqueio 2.0\obj\x86\Debug\ImpedeBloqueio 2.0_MarkupCompile.cache
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ImpedeBloqueio 2.0\ImpedeBloqueio 2.0\obj\x86\Debug\ImpedeBloqueio 2.0.g.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ImpedeBloqueio 2.0\ImpedeBloqueio 2.0\obj\x86\Debug\ImpedeBloqueio_2._0.Properties.Resources.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ImpedeBloqueio 2.0\ImpedeBloqueio 2.0\obj\x86\Debug\ImpedeBloqueio 2.0.csproj.GenerateResource.Cache
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ImpedeBloqueio 2.0\ImpedeBloqueio 2.0\obj\x86\Debug\ImpedeBloqueio 2.0.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ImpedeBloqueio 2.0\ImpedeBloqueio 2.0\obj\x86\Debug\ImpedeBloqueio 2.0.pdb
