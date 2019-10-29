@@ -1,0 +1,7 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Val_MAPS_FONTS\Val_MAPS_FONTS\bin\Debug\Val_MAPS_FONTS.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Val_MAPS_FONTS\Val_MAPS_FONTS\bin\Debug\Val_MAPS_FONTS.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Val_MAPS_FONTS\Val_MAPS_FONTS\obj\x86\Debug\Val_MAPS_FONTS.Form1.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Val_MAPS_FONTS\Val_MAPS_FONTS\obj\x86\Debug\Val_MAPS_FONTS.Properties.Resources.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Val_MAPS_FONTS\Val_MAPS_FONTS\obj\x86\Debug\Val_MAPS_FONTS.csproj.GenerateResource.Cache
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Val_MAPS_FONTS\Val_MAPS_FONTS\obj\x86\Debug\Val_MAPS_FONTS.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Val_MAPS_FONTS\Val_MAPS_FONTS\obj\x86\Debug\Val_MAPS_FONTS.pdb

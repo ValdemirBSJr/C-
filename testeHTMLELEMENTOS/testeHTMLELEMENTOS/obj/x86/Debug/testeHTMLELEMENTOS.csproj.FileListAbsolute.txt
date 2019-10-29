@@ -1,0 +1,10 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeHTMLELEMENTOS\testeHTMLELEMENTOS\bin\Debug\testeHTMLELEMENTOS.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeHTMLELEMENTOS\testeHTMLELEMENTOS\bin\Debug\testeHTMLELEMENTOS.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeHTMLELEMENTOS\testeHTMLELEMENTOS\obj\x86\Debug\testeHTMLELEMENTOS.Form1.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeHTMLELEMENTOS\testeHTMLELEMENTOS\obj\x86\Debug\testeHTMLELEMENTOS.Properties.Resources.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeHTMLELEMENTOS\testeHTMLELEMENTOS\obj\x86\Debug\testeHTMLELEMENTOS.csproj.GenerateResource.Cache
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeHTMLELEMENTOS\testeHTMLELEMENTOS\obj\x86\Debug\testeHTMLELEMENTOS.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeHTMLELEMENTOS\testeHTMLELEMENTOS\obj\x86\Debug\testeHTMLELEMENTOS.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeHTMLELEMENTOS\testeHTMLELEMENTOS\obj\x86\Debug\testeHTMLELEMENTOS.csprojResolveAssemblyReference.cache
+C:\Users\seyro\Documents\Visual Studio 2010\Projects\testeHTMLELEMENTOS\testeHTMLELEMENTOS\obj\x86\Debug\testeHTMLELEMENTOS.exe
+C:\Users\seyro\Documents\Visual Studio 2010\Projects\testeHTMLELEMENTOS\testeHTMLELEMENTOS\obj\x86\Debug\testeHTMLELEMENTOS.pdb
