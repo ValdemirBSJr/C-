@@ -1,0 +1,9 @@
+c:\users\valdemir\documents\visual studio 2012\Projects\MoveMouse\MoveMouse\bin\Debug\MoveMouse.exe.config
+c:\users\valdemir\documents\visual studio 2012\Projects\MoveMouse\MoveMouse\bin\Debug\MoveMouse.exe
+c:\users\valdemir\documents\visual studio 2012\Projects\MoveMouse\MoveMouse\bin\Debug\MoveMouse.pdb
+c:\users\valdemir\documents\visual studio 2012\Projects\MoveMouse\MoveMouse\obj\Debug\MoveMouse.csprojResolveAssemblyReference.cache
+c:\users\valdemir\documents\visual studio 2012\Projects\MoveMouse\MoveMouse\obj\Debug\MoveMouse.Form1.resources
+c:\users\valdemir\documents\visual studio 2012\Projects\MoveMouse\MoveMouse\obj\Debug\MoveMouse.Properties.Resources.resources
+c:\users\valdemir\documents\visual studio 2012\Projects\MoveMouse\MoveMouse\obj\Debug\MoveMouse.csproj.GenerateResource.Cache
+c:\users\valdemir\documents\visual studio 2012\Projects\MoveMouse\MoveMouse\obj\Debug\MoveMouse.exe
+c:\users\valdemir\documents\visual studio 2012\Projects\MoveMouse\MoveMouse\obj\Debug\MoveMouse.pdb

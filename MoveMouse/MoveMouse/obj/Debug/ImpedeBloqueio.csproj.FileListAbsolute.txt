@@ -1,0 +1,9 @@
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\MoveMouse\MoveMouse\bin\Debug\MoveMouse.exe.config
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\MoveMouse\MoveMouse\bin\Debug\MoveMouse.exe
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\MoveMouse\MoveMouse\bin\Debug\MoveMouse.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\MoveMouse\MoveMouse\obj\Debug\MoveMouse.Form1.resources
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\MoveMouse\MoveMouse\obj\Debug\MoveMouse.Properties.Resources.resources
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\MoveMouse\MoveMouse\obj\Debug\ImpedeBloqueio.csproj.GenerateResource.Cache
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\MoveMouse\MoveMouse\obj\Debug\MoveMouse.exe
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\MoveMouse\MoveMouse\obj\Debug\MoveMouse.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\MoveMouse\MoveMouse\obj\Debug\ImpedeBloqueio.csprojResolveAssemblyReference.cache

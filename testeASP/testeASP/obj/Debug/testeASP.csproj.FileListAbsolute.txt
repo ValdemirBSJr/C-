@@ -1,0 +1,5 @@
+c:\users\valdemir\documents\visual studio 2012\Projects\testeASP\testeASP\bin\testeASP.dll
+c:\users\valdemir\documents\visual studio 2012\Projects\testeASP\testeASP\bin\testeASP.pdb
+c:\users\valdemir\documents\visual studio 2012\Projects\testeASP\testeASP\obj\Debug\testeASP.csprojResolveAssemblyReference.cache
+c:\users\valdemir\documents\visual studio 2012\Projects\testeASP\testeASP\obj\Debug\testeASP.dll
+c:\users\valdemir\documents\visual studio 2012\Projects\testeASP\testeASP\obj\Debug\testeASP.pdb

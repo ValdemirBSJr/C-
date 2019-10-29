@@ -1,0 +1,7 @@
+c:\users\valdemir\documents\visual studio 2012\Projects\PortifolioGRUPO_UNOPAR_3P\PortifolioGRUPO_UNOPAR_3P\bin\Debug\PortifolioGRUPO_UNOPAR_3P.exe.config
+c:\users\valdemir\documents\visual studio 2012\Projects\PortifolioGRUPO_UNOPAR_3P\PortifolioGRUPO_UNOPAR_3P\bin\Debug\PortifolioGRUPO_UNOPAR_3P.exe
+c:\users\valdemir\documents\visual studio 2012\Projects\PortifolioGRUPO_UNOPAR_3P\PortifolioGRUPO_UNOPAR_3P\bin\Debug\PortifolioGRUPO_UNOPAR_3P.pdb
+c:\users\valdemir\documents\visual studio 2012\Projects\PortifolioGRUPO_UNOPAR_3P\PortifolioGRUPO_UNOPAR_3P\obj\Debug\PortifolioGRUPO_UNOPAR_3P.csprojResolveAssemblyReference.cache
+c:\users\valdemir\documents\visual studio 2012\Projects\PortifolioGRUPO_UNOPAR_3P\PortifolioGRUPO_UNOPAR_3P\obj\Debug\PortifolioGRUPO_UNOPAR_3P.exe
+c:\users\valdemir\documents\visual studio 2012\Projects\PortifolioGRUPO_UNOPAR_3P\PortifolioGRUPO_UNOPAR_3P\obj\Debug\PortifolioGRUPO_UNOPAR_3P.pdb
+c:\users\valdemir\documents\visual studio 2012\Projects\PortifolioGRUPO_UNOPAR_3P\PortifolioGRUPO_UNOPAR_3P\bin\Debug\MySql.Data.dll
