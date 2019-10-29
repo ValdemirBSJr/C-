@@ -1,0 +1,9 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeCRISTAL_REPORTS\testeCRISTAL_REPORTS\bin\Debug\testeCRISTAL_REPORTS.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeCRISTAL_REPORTS\testeCRISTAL_REPORTS\bin\Debug\testeCRISTAL_REPORTS.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeCRISTAL_REPORTS\testeCRISTAL_REPORTS\obj\x86\Debug\testeCRISTAL_REPORTS.Properties.Resources.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeCRISTAL_REPORTS\testeCRISTAL_REPORTS\obj\x86\Debug\testeCRISTAL_REPORTS.csproj.GenerateResource.Cache
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeCRISTAL_REPORTS\testeCRISTAL_REPORTS\obj\x86\Debug\testeCRISTAL_REPORTS.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeCRISTAL_REPORTS\testeCRISTAL_REPORTS\obj\x86\Debug\testeCRISTAL_REPORTS.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeCRISTAL_REPORTS\testeCRISTAL_REPORTS\bin\Debug\MySql.Data.dll
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeCRISTAL_REPORTS\testeCRISTAL_REPORTS\obj\x86\Debug\testeCRISTAL_REPORTS.Form1.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeCRISTAL_REPORTS\testeCRISTAL_REPORTS\obj\x86\Debug\testeCRISTAL_REPORTS.csprojResolveAssemblyReference.cache

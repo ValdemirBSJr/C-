@@ -1,0 +1,8 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeBARRASTATUS\testeBARRASTATUS\bin\Debug\testeBARRASTATUS.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeBARRASTATUS\testeBARRASTATUS\bin\Debug\testeBARRASTATUS.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeBARRASTATUS\testeBARRASTATUS\obj\x86\Debug\testeBARRASTATUS.Form1.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeBARRASTATUS\testeBARRASTATUS\obj\x86\Debug\testeBARRASTATUS.Properties.Resources.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeBARRASTATUS\testeBARRASTATUS\obj\x86\Debug\testeBARRASTATUS.csproj.GenerateResource.Cache
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeBARRASTATUS\testeBARRASTATUS\obj\x86\Debug\testeBARRASTATUS.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeBARRASTATUS\testeBARRASTATUS\obj\x86\Debug\testeBARRASTATUS.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\testeBARRASTATUS\testeBARRASTATUS\obj\x86\Debug\testeBARRASTATUS.csprojResolveAssemblyReference.cache
