@@ -1,0 +1,14 @@
+c:\users\valdemir\documents\visual studio 2015\Projects\botoesWPF\botoesWPF\bin\Debug\botoesWPF.exe.config
+c:\users\valdemir\documents\visual studio 2015\Projects\botoesWPF\botoesWPF\bin\Debug\botoesWPF.exe
+c:\users\valdemir\documents\visual studio 2015\Projects\botoesWPF\botoesWPF\bin\Debug\botoesWPF.pdb
+c:\users\valdemir\documents\visual studio 2015\Projects\botoesWPF\botoesWPF\obj\Debug\botoesWPF.csprojResolveAssemblyReference.cache
+c:\users\valdemir\documents\visual studio 2015\Projects\botoesWPF\botoesWPF\obj\Debug\MainWindow.g.cs
+c:\users\valdemir\documents\visual studio 2015\Projects\botoesWPF\botoesWPF\obj\Debug\App.g.cs
+c:\users\valdemir\documents\visual studio 2015\Projects\botoesWPF\botoesWPF\obj\Debug\botoesWPF_MarkupCompile.cache
+c:\users\valdemir\documents\visual studio 2015\Projects\botoesWPF\botoesWPF\obj\Debug\botoesWPF_MarkupCompile.lref
+c:\users\valdemir\documents\visual studio 2015\Projects\botoesWPF\botoesWPF\obj\Debug\MainWindow.baml
+c:\users\valdemir\documents\visual studio 2015\Projects\botoesWPF\botoesWPF\obj\Debug\botoesWPF.g.resources
+c:\users\valdemir\documents\visual studio 2015\Projects\botoesWPF\botoesWPF\obj\Debug\botoesWPF.Properties.Resources.resources
+c:\users\valdemir\documents\visual studio 2015\Projects\botoesWPF\botoesWPF\obj\Debug\botoesWPF.csproj.GenerateResource.Cache
+c:\users\valdemir\documents\visual studio 2015\Projects\botoesWPF\botoesWPF\obj\Debug\botoesWPF.exe
+c:\users\valdemir\documents\visual studio 2015\Projects\botoesWPF\botoesWPF\obj\Debug\botoesWPF.pdb
