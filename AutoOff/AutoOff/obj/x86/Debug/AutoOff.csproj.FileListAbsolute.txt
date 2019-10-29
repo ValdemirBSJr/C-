@@ -1,0 +1,8 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AutoOff\AutoOff\bin\Debug\AutoOff.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AutoOff\AutoOff\bin\Debug\AutoOff.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AutoOff\AutoOff\obj\x86\Debug\AutoOff.Form1.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AutoOff\AutoOff\obj\x86\Debug\AutoOff.Properties.Resources.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AutoOff\AutoOff\obj\x86\Debug\AutoOff.csproj.GenerateResource.Cache
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AutoOff\AutoOff\obj\x86\Debug\AutoOff.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AutoOff\AutoOff\obj\x86\Debug\AutoOff.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AutoOff\AutoOff\obj\x86\Debug\AutoOff.csprojResolveAssemblyReference.cache
