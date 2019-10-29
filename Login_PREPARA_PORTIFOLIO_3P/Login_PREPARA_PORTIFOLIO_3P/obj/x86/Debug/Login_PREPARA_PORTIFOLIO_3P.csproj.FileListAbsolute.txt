@@ -1,0 +1,11 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Login_PREPARA_PORTIFOLIO_3P\Login_PREPARA_PORTIFOLIO_3P\bin\Debug\Login_PREPARA_PORTIFOLIO_3P.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Login_PREPARA_PORTIFOLIO_3P\Login_PREPARA_PORTIFOLIO_3P\bin\Debug\Login_PREPARA_PORTIFOLIO_3P.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Login_PREPARA_PORTIFOLIO_3P\Login_PREPARA_PORTIFOLIO_3P\obj\x86\Debug\Login_PREPARA_PORTIFOLIO_3P.Form1.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Login_PREPARA_PORTIFOLIO_3P\Login_PREPARA_PORTIFOLIO_3P\obj\x86\Debug\Login_PREPARA_PORTIFOLIO_3P.Properties.Resources.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Login_PREPARA_PORTIFOLIO_3P\Login_PREPARA_PORTIFOLIO_3P\obj\x86\Debug\Login_PREPARA_PORTIFOLIO_3P.csproj.GenerateResource.Cache
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Login_PREPARA_PORTIFOLIO_3P\Login_PREPARA_PORTIFOLIO_3P\obj\x86\Debug\Login_PREPARA_PORTIFOLIO_3P.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Login_PREPARA_PORTIFOLIO_3P\Login_PREPARA_PORTIFOLIO_3P\obj\x86\Debug\Login_PREPARA_PORTIFOLIO_3P.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Login_PREPARA_PORTIFOLIO_3P\Login_PREPARA_PORTIFOLIO_3P\bin\Debug\MySql.Data.dll
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Login_PREPARA_PORTIFOLIO_3P\Login_PREPARA_PORTIFOLIO_3P\bin\Debug\Login_PREPARA_PORTIFOLIO_3P.exe.config
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Login_PREPARA_PORTIFOLIO_3P\Login_PREPARA_PORTIFOLIO_3P\obj\x86\Debug\Login_PREPARA_PORTIFOLIO_3P.csprojResolveAssemblyReference.cache
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Login_PREPARA_PORTIFOLIO_3P\Login_PREPARA_PORTIFOLIO_3P\obj\x86\Debug\Login_PREPARA_PORTIFOLIO_3P.carregando.resources
