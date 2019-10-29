@@ -1,0 +1,6 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Configurando_o_APPCONFIG\Configurando_o_APPCONFIG\bin\Debug\Configurando_o_APPCONFIG.exe.config
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Configurando_o_APPCONFIG\Configurando_o_APPCONFIG\bin\Debug\Configurando_o_APPCONFIG.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Configurando_o_APPCONFIG\Configurando_o_APPCONFIG\bin\Debug\Configurando_o_APPCONFIG.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Configurando_o_APPCONFIG\Configurando_o_APPCONFIG\obj\x86\Debug\Configurando_o_APPCONFIG.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Configurando_o_APPCONFIG\Configurando_o_APPCONFIG\obj\x86\Debug\Configurando_o_APPCONFIG.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\Configurando_o_APPCONFIG\Configurando_o_APPCONFIG\obj\x86\Debug\Configurando_o_APPCONFIG.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+c:\users\valdemir\documents\visual studio 2010\Projects\cinco patinhos xuxa\cinco patinhos xuxa\bin\Debug\cinco patinhos xuxa.exe
+c:\users\valdemir\documents\visual studio 2010\Projects\cinco patinhos xuxa\cinco patinhos xuxa\bin\Debug\cinco patinhos xuxa.pdb
+c:\users\valdemir\documents\visual studio 2010\Projects\cinco patinhos xuxa\cinco patinhos xuxa\obj\x86\Debug\cinco patinhos xuxa.exe
+c:\users\valdemir\documents\visual studio 2010\Projects\cinco patinhos xuxa\cinco patinhos xuxa\obj\x86\Debug\cinco patinhos xuxa.pdb
