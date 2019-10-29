@@ -1,0 +1,14 @@
+c:\users\valdemir\documents\visual studio 2012\Projects\validaCampos_e_formata_objetos\validaCampos_e_formata_objetos\bin\Debug\validaCampos_e_formata_objetos.exe.config
+c:\users\valdemir\documents\visual studio 2012\Projects\validaCampos_e_formata_objetos\validaCampos_e_formata_objetos\bin\Debug\validaCampos_e_formata_objetos.exe
+c:\users\valdemir\documents\visual studio 2012\Projects\validaCampos_e_formata_objetos\validaCampos_e_formata_objetos\bin\Debug\validaCampos_e_formata_objetos.pdb
+c:\users\valdemir\documents\visual studio 2012\Projects\validaCampos_e_formata_objetos\validaCampos_e_formata_objetos\obj\Debug\validaCampos_e_formata_objetos.csprojResolveAssemblyReference.cache
+c:\users\valdemir\documents\visual studio 2012\Projects\validaCampos_e_formata_objetos\validaCampos_e_formata_objetos\obj\Debug\validaCampos_e_formata_objetos.Form1.resources
+c:\users\valdemir\documents\visual studio 2012\Projects\validaCampos_e_formata_objetos\validaCampos_e_formata_objetos\obj\Debug\validaCampos_e_formata_objetos.FormObjeto.resources
+c:\users\valdemir\documents\visual studio 2012\Projects\validaCampos_e_formata_objetos\validaCampos_e_formata_objetos\obj\Debug\validaCampos_e_formata_objetos.Properties.Resources.resources
+c:\users\valdemir\documents\visual studio 2012\Projects\validaCampos_e_formata_objetos\validaCampos_e_formata_objetos\obj\Debug\validaCampos_e_formata_objetos.csproj.GenerateResource.Cache
+c:\users\valdemir\documents\visual studio 2012\Projects\validaCampos_e_formata_objetos\validaCampos_e_formata_objetos\obj\Debug\validaCampos_e_formata_objetos.exe
+c:\users\valdemir\documents\visual studio 2012\Projects\validaCampos_e_formata_objetos\validaCampos_e_formata_objetos\obj\Debug\validaCampos_e_formata_objetos.pdb
+c:\users\valdemir\documents\visual studio 2012\Projects\validaCampos_e_formata_objetos\validaCampos_e_formata_objetos\obj\Debug\validaCampos_e_formata_objetos.FormError.resources
+c:\users\valdemir\documents\visual studio 2012\Projects\validaCampos_e_formata_objetos\validaCampos_e_formata_objetos\obj\Debug\validaCampos_e_formata_objetos.FormRelatorio.resources
+c:\users\valdemir\documents\visual studio 2012\Projects\validaCampos_e_formata_objetos\validaCampos_e_formata_objetos\obj\Debug\RdlCompile.cache
+c:\users\valdemir\documents\visual studio 2012\Projects\validaCampos_e_formata_objetos\validaCampos_e_formata_objetos\obj\Debug\RdlCompile.compiled
