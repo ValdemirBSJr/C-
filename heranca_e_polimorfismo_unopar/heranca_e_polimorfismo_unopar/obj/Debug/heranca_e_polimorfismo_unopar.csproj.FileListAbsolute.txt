@@ -1,0 +1,9 @@
+c:\users\valdemir\documents\visual studio 2012\Projects\heranca_e_polimorfismo_unopar\heranca_e_polimorfismo_unopar\bin\Debug\heranca_e_polimorfismo_unopar.exe.config
+c:\users\valdemir\documents\visual studio 2012\Projects\heranca_e_polimorfismo_unopar\heranca_e_polimorfismo_unopar\bin\Debug\heranca_e_polimorfismo_unopar.exe
+c:\users\valdemir\documents\visual studio 2012\Projects\heranca_e_polimorfismo_unopar\heranca_e_polimorfismo_unopar\bin\Debug\heranca_e_polimorfismo_unopar.pdb
+c:\users\valdemir\documents\visual studio 2012\Projects\heranca_e_polimorfismo_unopar\heranca_e_polimorfismo_unopar\obj\Debug\heranca_e_polimorfismo_unopar.csprojResolveAssemblyReference.cache
+c:\users\valdemir\documents\visual studio 2012\Projects\heranca_e_polimorfismo_unopar\heranca_e_polimorfismo_unopar\obj\Debug\heranca_e_polimorfismo_unopar.Form1.resources
+c:\users\valdemir\documents\visual studio 2012\Projects\heranca_e_polimorfismo_unopar\heranca_e_polimorfismo_unopar\obj\Debug\heranca_e_polimorfismo_unopar.Properties.Resources.resources
+c:\users\valdemir\documents\visual studio 2012\Projects\heranca_e_polimorfismo_unopar\heranca_e_polimorfismo_unopar\obj\Debug\heranca_e_polimorfismo_unopar.csproj.GenerateResource.Cache
+c:\users\valdemir\documents\visual studio 2012\Projects\heranca_e_polimorfismo_unopar\heranca_e_polimorfismo_unopar\obj\Debug\heranca_e_polimorfismo_unopar.exe
+c:\users\valdemir\documents\visual studio 2012\Projects\heranca_e_polimorfismo_unopar\heranca_e_polimorfismo_unopar\obj\Debug\heranca_e_polimorfismo_unopar.pdb
