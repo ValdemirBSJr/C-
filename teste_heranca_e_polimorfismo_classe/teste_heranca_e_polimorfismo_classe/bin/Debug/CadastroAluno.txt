@@ -1,0 +1,17 @@
+﻿
+Nome: Valder
+CPF: 012.331.554-90
+Fone: 9171-2024
+Tipo: al
+Nome: Vava
+CPF: 012.331.554-90
+Fone: 9171-2024
+Tipo: lala
+Nome: Lilo
+CPF: 012.331.554-90
+Fone: 9171-2024
+Tipo: 22
+Nome: Lele
+CPF: 012.331.554-90
+Fone: 9171-2024
+Tipo: 11

@@ -1,0 +1,6 @@
+c:\users\valdemir\documents\visual studio 2012\Projects\testesBradescoCurso\testesBradescoCurso\bin\Debug\testesBradescoCurso.exe.config
+c:\users\valdemir\documents\visual studio 2012\Projects\testesBradescoCurso\testesBradescoCurso\bin\Debug\testesBradescoCurso.exe
+c:\users\valdemir\documents\visual studio 2012\Projects\testesBradescoCurso\testesBradescoCurso\bin\Debug\testesBradescoCurso.pdb
+c:\users\valdemir\documents\visual studio 2012\Projects\testesBradescoCurso\testesBradescoCurso\obj\Debug\testesBradescoCurso.csprojResolveAssemblyReference.cache
+c:\users\valdemir\documents\visual studio 2012\Projects\testesBradescoCurso\testesBradescoCurso\obj\Debug\testesBradescoCurso.exe
+c:\users\valdemir\documents\visual studio 2012\Projects\testesBradescoCurso\testesBradescoCurso\obj\Debug\testesBradescoCurso.pdb

@@ -1,0 +1,11 @@
+c:\users\valdemir\documents\visual studio 2012\Projects\usando_report_teste1\usando_report_teste1\bin\Debug\usando_report_teste1.exe.config
+c:\users\valdemir\documents\visual studio 2012\Projects\usando_report_teste1\usando_report_teste1\bin\Debug\usando_report_teste1.exe
+c:\users\valdemir\documents\visual studio 2012\Projects\usando_report_teste1\usando_report_teste1\bin\Debug\usando_report_teste1.pdb
+c:\users\valdemir\documents\visual studio 2012\Projects\usando_report_teste1\usando_report_teste1\obj\Debug\usando_report_teste1.csprojResolveAssemblyReference.cache
+c:\users\valdemir\documents\visual studio 2012\Projects\usando_report_teste1\usando_report_teste1\obj\Debug\usando_report_teste1.Form1.resources
+c:\users\valdemir\documents\visual studio 2012\Projects\usando_report_teste1\usando_report_teste1\obj\Debug\usando_report_teste1.Properties.Resources.resources
+c:\users\valdemir\documents\visual studio 2012\Projects\usando_report_teste1\usando_report_teste1\obj\Debug\usando_report_teste1.csproj.GenerateResource.Cache
+c:\users\valdemir\documents\visual studio 2012\Projects\usando_report_teste1\usando_report_teste1\obj\Debug\RdlCompile.cache
+c:\users\valdemir\documents\visual studio 2012\Projects\usando_report_teste1\usando_report_teste1\obj\Debug\RdlCompile.compiled
+c:\users\valdemir\documents\visual studio 2012\Projects\usando_report_teste1\usando_report_teste1\obj\Debug\usando_report_teste1.exe
+c:\users\valdemir\documents\visual studio 2012\Projects\usando_report_teste1\usando_report_teste1\obj\Debug\usando_report_teste1.pdb
