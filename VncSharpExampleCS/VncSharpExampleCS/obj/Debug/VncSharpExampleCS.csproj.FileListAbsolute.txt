@@ -1,0 +1,10 @@
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\VncSharpExampleCS\VncSharpExampleCS\bin\Debug\VncSharpExampleCS.exe
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\VncSharpExampleCS\VncSharpExampleCS\bin\Debug\VncSharpExampleCS.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\VncSharpExampleCS\VncSharpExampleCS\bin\Debug\VncSharp.dll
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\VncSharpExampleCS\VncSharpExampleCS\obj\Debug\VncSharpExampleCS.csprojResolveAssemblyReference.cache
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\VncSharpExampleCS\VncSharpExampleCS\obj\Debug\VncSharp.ConnectDialog.resources
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\VncSharpExampleCS\VncSharpExampleCS\obj\Debug\VncSharpExampleCS.form.resources
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\VncSharpExampleCS\VncSharpExampleCS\obj\Debug\VncSharpExampleCS.Properties.Resources.resources
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\VncSharpExampleCS\VncSharpExampleCS\obj\Debug\VncSharpExampleCS.csproj.GenerateResource.Cache
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\VncSharpExampleCS\VncSharpExampleCS\obj\Debug\VncSharpExampleCS.exe
+C:\Users\Valdemir\Documents\Visual Studio 2012\Projects\VncSharpExampleCS\VncSharpExampleCS\obj\Debug\VncSharpExampleCS.pdb
