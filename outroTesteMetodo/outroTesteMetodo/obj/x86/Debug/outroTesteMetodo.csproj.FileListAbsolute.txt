@@ -1,0 +1,4 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\outroTesteMetodo\outroTesteMetodo\bin\Debug\outroTesteMetodo.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\outroTesteMetodo\outroTesteMetodo\bin\Debug\outroTesteMetodo.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\outroTesteMetodo\outroTesteMetodo\obj\x86\Debug\outroTesteMetodo.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\outroTesteMetodo\outroTesteMetodo\obj\x86\Debug\outroTesteMetodo.pdb
