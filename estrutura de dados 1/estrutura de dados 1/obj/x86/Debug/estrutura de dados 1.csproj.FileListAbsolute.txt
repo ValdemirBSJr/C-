@@ -1,0 +1,4 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\estrutura de dados 1\estrutura de dados 1\bin\Debug\estrutura de dados 1.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\estrutura de dados 1\estrutura de dados 1\bin\Debug\estrutura de dados 1.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\estrutura de dados 1\estrutura de dados 1\obj\x86\Debug\estrutura de dados 1.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\estrutura de dados 1\estrutura de dados 1\obj\x86\Debug\estrutura de dados 1.pdb

@@ -1,0 +1,4 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\Segunda_atividade_UNOPAR\Segunda_atividade_UNOPAR\bin\Debug\Segunda_atividade_UNOPAR.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\Segunda_atividade_UNOPAR\Segunda_atividade_UNOPAR\bin\Debug\Segunda_atividade_UNOPAR.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\Segunda_atividade_UNOPAR\Segunda_atividade_UNOPAR\obj\x86\Debug\Segunda_atividade_UNOPAR.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\Segunda_atividade_UNOPAR\Segunda_atividade_UNOPAR\obj\x86\Debug\Segunda_atividade_UNOPAR.pdb
