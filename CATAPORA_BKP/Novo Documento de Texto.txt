@@ -1,0 +1,20 @@
+http://www.caelum.com.br/apostila-csharp-orientacao-objetos/trabalhando-com-listas/#19-1-facilitando-o-trabalho-com-colecoes-atraves-das-listas
+
+http://stackoverflow.com/questions/16370508/populate-listbox-from-list-of-objects
+
+http://stackoverflow.com/questions/15370663/insert-list-in-listbox
+
+http://stackoverflow.com/questions/4321300/c-easiest-way-to-populate-a-listbox-from-a-list
+
+IMPORTANTE:  http://stackoverflow.com/questions/1779117/how-to-get-a-liststring-collection-of-values-from-app-config-in-wpf
+
+https://msdn.microsoft.com/pt-br/library/e954th47%28v=vs.110%29.aspx
+
+https://sites.google.com/site/programacaoonline/family-blog/c/usando-o-checkedlistbox
+
+http://www.dotnetperls.com/checkedlistbox
+
+https://msdn.microsoft.com/pt-br/library/system.windows.forms.checkedlistbox.items%28v=vs.90%29.aspx
+
+
+http://stackoverflow.com/questions/370820/how-do-i-programmatically-check-an-item-in-a-checkedlistbox-in-c-sharp

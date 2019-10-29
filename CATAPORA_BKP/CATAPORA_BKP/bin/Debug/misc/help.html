@@ -1,0 +1,78 @@
+<!doctype html>
+
+<html lang="pt-br">
+<head>
+    <title>Guia de Ajuda CATAPORA - BKP - MOS 1.0</title>
+
+<script>
+
+document.getElementById("config").style.display = "none";
+
+function mostraEsconde (el, link) {
+	
+	var display = document.getElementById(el).style.display;
+	var texto_link = document.getElementById(link).innerText;
+
+	var texto_efeito = texto_link.split("]");
+
+	//alert(texto_link);
+
+	if (display == "none") {
+		document.getElementById(el).style.display = "block";
+		document.getElementById(link).innerHTML = "[-]" + texto_efeito[1];
+	}
+	else{
+		
+		document.getElementById(el).style.display = "none";
+		document.getElementById(link).innerHTML = "[+]" + texto_efeito[1];
+	}
+
+
+  };
+
+</script>
+
+</head>
+<body>
+<h1 align="center">Central de ajuda do aplicativo</h1>
+    
+    
+    <h3><a href="#" id="mostraconfig" onclick="javascript:mostraEsconde('config', 'mostraconfig');">[+] CONFIGURAÇÕES DE PASTA</a></h3>
+<div id="config" style="display:none;">
+    <h4>Aqui você selecionará a pasta em que o sistema salvará todos os arquivos por padrão. Esta pasta pode ser mudada, mas os arquivos antigos não irão ser movidos para a nova pasta. Guarde o caminho da pasta antigo!</h4>
+	<p align="center"><img src="config.jpg" alt="configurações do aplicativo"></p>
+</div>
+    
+ 
+    
+    <h3><a href="#" id="mostracatapora" onclick="javascript:mostraEsconde('catapora', 'mostracatapora');">[+] CONFIGURAÇÕES DO CATAPORA</a></h3>
+<div id="catapora" style="display:none;">
+    <h4>Aqui você salvará os controles do catapora, serve para comparação e sinalização, além de facilitar a busca aos processos de maneira geral. Verifica se o processo está aderente.</h4>
+	<p align="center"><img src="catapora.jpg" alt="configurações do catapora"></p>
+	<p align="center"><img src="consultacatapora.jpg" alt="configurações do catapora"></p>
+
+
+</div>
+
+ <h3><a href="#" id="mostrabkp" onclick="javascript:mostraEsconde('bkp', 'mostrabkp');">[+] CONFIGURAÇÕES DE BACKUP</a></h3>
+<div id="bkp" style="display:none;">
+    <h4>No formulário de Backup, é possível salvar o mesmo com os equipamentos que foram salvos, por senha para manter o arquivo zipado gerado mais seguro e verificar se o processo foi aderente.</h4>
+	<p align="center"><img src="bkp.jpg" alt="configurações do bkp"></p>
+	<p align="center"><img src="consultabkp.jpg" alt="configurações do bkp"></p>
+
+
+</div>
+
+<h3><a href="#" id="mostramos" onclick="javascript:mostraEsconde('mos', 'mostramos');">[+] CONFIGURAÇÕES DE MOS</a></h3>
+<div id="mos" style="display:none;">
+    <h4>No formulário de controle do MOS, é possível salvar os registros diários com os emails enviados para fácil controle.</h4>
+	<p align="center"><img src="mos.jpg" alt="configurações do MOS"></p>
+	<p align="center"><img src="consultamos.jpg" alt="consulta do MOS"></p>
+
+
+</div>
+
+
+<p><strong><i>Desenvolvido por Valdemir Bezerra para o DTC NET JPA. Contato: (83)9171-2024 / valdemir.junior2@netservicos.com.br / N5669203</i></strong></p>
+</body>
+</html>

@@ -1,0 +1,236 @@
+<!--
+Copyright © 2000 - 2008 - Vírtua
+DATACENTER - Porto Alegre - RS
+email: marcio.avila@netservicos.com.br
+-->
+~
+
+<HTML>
+<HEAD>
+<TITLE>D A T A C E N T E R - Vírtua</TITLE>
+<LINK REL="Stylesheet" HREF="../styles/default.css" TYPE="text/css">
+</HEAD>
+<SCRIPT>
+function FocoInicial()
+	{
+		document.Consulta.mac.focus();
+	}
+function Limpa()
+	{
+		var Campo;
+		Campo = window.event.srcElement;
+		if(Campo.value.length == Campo.size) Campo.value = "";
+	}
+function Limpa2(Campo)
+	{
+		if(Campo.value.length == Campo.size) Campo.value = "";
+	}
+function MudaCampo(Seguinte)
+	{
+		var Tecla, Campo;
+		Tecla = window.event.keyCode;
+		if(Tecla == 13)
+		{
+			return;
+		}
+		Campo = window.event.srcElement;
+		if(Campo.value.length == Campo.size && Tecla > 46) Seguinte.focus();
+		event.cancelBubble = true;
+		return;
+	}
+
+
+
+function autotab(original,destination){ 
+if (original.getAttribute&&original.value.length==original.getAttribute("maxlength")) 
+destination.focus() 
+} 
+
+function Executa()
+	{
+		Consulta.submit();
+	}
+</SCRIPT>
+<BODY CLASS=LEFTMENU>
+<TABLE cellspacing="0" cellpadding="0" border="0" width="100%">
+	<TR>
+           <TD background="../media/fundo_teralink.gif"><IMG SRC="../media/logo_cable.jpg"></TD>
+	   <TD background="../media/fundo_cable.jpg" align=right valign=middle width=350>
+                    	<TABLE cellspacing="0" cellpadding="0" border="0">
+                	    <TR>
+               		    <TD valign=top width=50 align=right><A HREF="cable_docsis.php?cont=N"><IMG SRC="../media/consulta_cable.gif" ALT="Localizar por Cable"></A>&nbsp;&nbsp;&nbsp;</TD>
+         	            <TD valign=middle align=right width=180><form name="Consulta" action = "cable_docsis.php?cont=S&txtContrato=9985935" method="post">
+                            <SELECT NAME=cmbCable>
+                            <OPTION value="900DCB2BA102">900DCB2BA102</OPTION><OPTION value="900DCB2BA103">900DCB2BA103</OPTION>                			
+                		</SELECT>&nbsp;
+                	    	</TD>
+                		    <TD valign=middle width=50><INPUT TYPE="image"  class=cmdNormal NAME="imgExec" SRC="../media/exec.jpg" border="0" value="Enviar"><A onclick="Executa();"></A>&nbsp;&nbsp;&nbsp;</TD>
+                	    </TR>
+                    </TABLE>                    
+                    		</TD>
+	</TR>
+</TABLE>
+  <BR>
+        <TABLE width="75%" border=1 cellspacing=1 align=center bgcolor=#fded66>	    
+		                <TR>
+                    <TD align=center colspan=2 CLASS=TDMENUCABLEAMARELO>
+                        <FONT color=black><B>Informações sobre o CableModem no CMTS</B></FONT>
+                    </TD>
+                </TR>
+                <TR>
+                    <TD colspan=2 bgcolor=#fffcaa>
+                        <TABLE BORDER=0 ALIGN=CENTER WIDTH="95%" CELLSPACING=0>                            
+						    
+                
+		<TR>
+	          <TD WIDTH="50%">
+		  <B>CMTS: </B>187.64.0.12 (JPAMIRCMT05.jpa.virtua.com.br)</TD><TD><B>Placa/Up: </B>Cable5/0/4-upstream6</font></B>
+	          </TD>
+		</TR>
+
+                <TR>
+                  <TD WIDTH="50%">
+                  <B>Vendor CMTS: </B>Cisco<TD><B>Node: <font color=green>JP37</font></B>
+                  </TD>
+                </TR>
+
+		<TR>
+	           <TD COLSPAN=2>
+	           	          <B>Status: <FONT COLOR="red">Online (pt)</B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A HREF="../monitor/monitor.php?cmdNovo=XDRTGswrgEAD&macp=900DCB2BA102"><IMG SRC="../media/monitorar.gif" ALT="Colocar em Monitoramento"></A></FONT>
+	          </TD>
+	        </TR>
+		<TR><TD><B>Receive Power: <FONT COLOR=green> 0.0</FONT></B></TD><TD><B>(Configurado: 0.0)</B></TD></TR>						<TR>
+							<TD COLSPAN="2">
+						        <B>Sinal/Ruído: <FONT COLOR="green"> 27.0</FONT></B>
+							</TD>
+						</TR>
+                			<TR>
+			    <TD>
+			    <B>Percentual de tempo online: </B></TD><TD>99.60			    </TD>
+			 </TR>
+			<TR>
+                       
+			    <TD>
+			    <B>Modo de Registro: </B>Docsis1.1			    </TD><TD><font color=#000000><B>Contrato NETSMS: </font>
+		<a href=/monitor/RegistroCm.php?contrato=9985935&mac=900DCB2BA102&TxLvl=44.3&RxLvl=8.4&SnrCMTS=27.0&SnrCm=37.0><font color=green>9985935</font></a></B></TD>
+			 </TR>
+						</TABLE>
+					</TD>
+				</TR>
+				<TABLE width="75%" border=0 cellspacing=0 align=center>
+				<TR><TD align=right colspan=2 bgcolor=#000000 valign=middle><IMG SRC='../media/logovirtua.jpg'></TD></TR>                </TABLE>
+			    			    <BR>			    
+				<TABLE width="75%" border=0 cellspacing=0 align=center bgcolor=#fded66>
+				    <TR>
+					    <TD align=center valign=top colspan=2 CLASS=TDMENUCABLEAMARELO>
+						    <FONT color=black><B>Informações sobre o CableModem (IP = 10.18.67.35 )</B><A HREF="log.php?ip_cable=10.18.67.35" TARGET="_blank"><IMG SRC="../media/log.gif"></A></FONT>
+						</TD>
+					</TR>
+					<TR>
+						<TD colspan=2>
+                            <TABLE BORDER=0 ALIGN=CENTER WIDTH="100%" CELLSPACING=0 bgcolor=#fffcaa>
+						    							<TR>
+							    <TD align=right bgcolor=#fffcaa>
+							        <B>Modelo/Versão: </B>
+							    </TD>
+							    <TD align=left>
+							        ARRIS DOCSIS 3.0 / PacketCable 1.5 Touchstone Telephony Gateway HW_REV: 1; VENDOR: Arris Interactive, L.L.C.; BOOTR: 1.2.1.62; SW_REV: 7.5.125D; MODEL: TG862A							    </TD>
+							</TR>
+							<TR>
+							    <TD align=right bgcolor=#fffcaa>
+							        <B>Tempo online: </B>
+							    </TD>
+							    <TD align=left>
+							        0 days, 8:23:33.81							    </TD>
+							</TR>
+														<TR>
+							    <TD align=right bgcolor=#fffcaa>
+							        <B>Potência TX: 
+							    </TD>
+							    <TD align=left>
+							        <B><FONT COLOR="green">44.3 dBmV</B></FONT>
+							    </TD>
+							</TR>
+														<TR>
+							    <TD align=right bgcolor=#fffcaa>
+							        <B>Potência RX: 
+							    </TD>
+							    <TD align=left>
+							        <B><FONT COLOR="green">8.4 dBmV</B></FONT>
+							    </TD>
+						    </TR>
+														<TR>
+							    <TD align=right bgcolor=#fffcaa>
+							        <B>Sinal/Ruído: 
+							    </TD>
+							    <TD align=left >
+							        <B><FONT COLOR="green">37.0</B></FONT>
+							    </TD>
+							</TR>
+        		<TR>
+		    <TD align=right bgcolor=#fffcaa>
+		        <B>Service Flows: </B> </TD> <TD align=left>
+		        4		    </TD>
+		</TR>
+             <TR><TD align=right bgcolor=#fffcaa> <B>(9579): </TD><TD>33000000 (Downstream)</TD></TR><TR><TD align=right bgcolor=#fffcaa> <B>(9581): </TD><TD>2200000 (Upstream)</TD></TR><TR><TD align=right bgcolor=#fffcaa> <B>(21366): </TD><TD>16000 (Upstream)</TD></TR><TR><TD align=right bgcolor=#fffcaa> <B>(21416): </TD><TD>16000 (Downstream)</TD></TR>							<TR>
+							    <TD align=right bgcolor=#fffcaa>
+							        <B>Profile: </B>
+							    </TD>
+							    <TD align=left>
+							        voip_9030_1pc							    </TD>
+							</TR>
+						</TABLE>
+					</TD>
+				</TR>
+			</TABLE>
+						<BR>
+			<TABLE width="75%" border=1 cellspacing=1 align=center bgcolor=#fded66>
+			    <TR>
+				    <TD colspan=2 align=center CLASS=TDMENUCABLEAMARELO>
+					    <FONT color=black><B>Computadores/MTA</B></FONT>
+					</TD>
+				</TR>
+				<TR>
+					<TD  colspan=2 bgcolor=#fffcaa>
+						<BR>
+						<TABLE border=1 bgcolor=#FEED66 width="80%" align=center cellspacing=1>
+							<TR>
+								<TD align=middle bgcolor=#FEED66>
+									<B>MACs</B></FONT>
+								</TD>
+								<TD align=middle bgcolor=#FEED66>
+									<B>Endereço IP</B></FONT>
+								</TD>
+							</TR>
+							<TR><TD align=middle bgcolor=FFFFC8 height=15>900D.CB2B.A101</TD><TD align=middle bgcolor=FFFFC8>&nbsp;&nbsp;&nbsp;<A HREF=ccm/cableclear.php?cmts=187.64.0.12&mac=900DCB2BA101><IMG SRC=../media/clear.jpg></A></TD></TR><TR><TD align=middle bgcolor=FFFFC8 height=15>900D.CB2B.A103</TD><TD align=middle bgcolor=FFFFC8>11.32.70.44&nbsp <IMG SRC="../media/telefone.jpg" ALT="Exibe informações sobre o MTA" TITLE="Exibe informações sobre o MTA" onclick="window.open('mta.php?mta_ip=11.32.70.44&contrato=9985935&modem=900DCB2BA103','_blank','height=255,width=350,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no')"> &nbsp&nbsp;&nbsp;&nbsp;<A HREF=ccm/cableclear.php?cmts=187.64.0.12&mac=900DCB2BA103><IMG SRC=../media/clear.jpg></A></TD></TR><TR><TD align=middle bgcolor=FFFFC8 height=15>900D.CB2B.A104</TD><TD align=middle bgcolor=FFFFC8>187.64.8.208&nbsp;&nbsp;&nbsp;<A HREF=ccm/cableclear.php?cmts=187.64.0.12&mac=900DCB2BA104><IMG SRC=../media/clear.jpg></A></TD></TR>						</TABLE>
+					    </FORM>
+					    <FORM ACTION="cable_docsis.php?strHost=S&mac5=90&mac4=0D&mac3=CB&mac2=2B&mac1=A1&mac=02" METHOD=POST>
+					    <CENTER>
+													<INPUT TYPE="image" class=cmdNormal NAME="imgSHost" SRC="../media/shost.jpg" border="0" value="Shost">
+													</CENTER><BR>
+												</TD>
+					</TR>
+									</TABLE>
+			    <BR>
+				<TABLE width="75%" border=0 cellspacing=0 align=center bgcolor=#fded66>
+   <TR>
+     <TD align=center colspan=2 CLASS=TDMENUCABLEAMARELO>
+     <FONT color=black><B>Flap List</B></FONT>
+     </TD>
+   </TR>
+   <TR>
+     <TD align=center colspan=2 bgcolor=#fffcaa>
+       <TABLE WIDTH="90%" ALIGN=CENTER BORDER=0 CELLPADDING=0 >
+   	<TR><TD><B>CMTS:</TD><TD> 18</TD></TR><TR><TD><B>Ins Fail:</TD><TD> 32249</TD></TR><TR><TD><B>Hit:</TD><TD> 2124</TD></TR><TR><TD><B>Miss:</TD><TD> 0</TD></TR><TR><TD><B>CRC:</TD><TD> 28</TD></TR><TR><TD><B>Power Adjust:</TD><TD> 76</TD></TR><TR><TD><B>Total Flap:</TD><TD> 2015-06-16 03:40:36</TD></TR>	</TABLE>
+	<A HREF=ccm/flapclear.php?mac=900DCB2BA102><IMG SRC=../media/clear.jpg></A>
+     </TD>
+    </TR>
+</TABLE>
+<BR>
+<B><CENTER>Copyright © 2000 - 2006 - DATACENTER Vírtua</CENTER></B>
+<BR>
+			</TD>
+		</TR>
+		</TABLE>
+</BODY>
+</HTML>
