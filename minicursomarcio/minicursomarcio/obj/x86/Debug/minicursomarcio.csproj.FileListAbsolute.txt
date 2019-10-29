@@ -1,0 +1,9 @@
+c:\users\convidado\documents\visual studio 2010\Projects\minicursomarcio\minicursomarcio\bin\Debug\minicursomarcio.exe
+c:\users\convidado\documents\visual studio 2010\Projects\minicursomarcio\minicursomarcio\bin\Debug\minicursomarcio.pdb
+c:\users\convidado\documents\visual studio 2010\Projects\minicursomarcio\minicursomarcio\obj\x86\Debug\minicursomarcio.Form1.resources
+c:\users\convidado\documents\visual studio 2010\Projects\minicursomarcio\minicursomarcio\obj\x86\Debug\minicursomarcio.Properties.Resources.resources
+c:\users\convidado\documents\visual studio 2010\Projects\minicursomarcio\minicursomarcio\obj\x86\Debug\minicursomarcio.csproj.GenerateResource.Cache
+c:\users\convidado\documents\visual studio 2010\Projects\minicursomarcio\minicursomarcio\obj\x86\Debug\minicursomarcio.exe
+c:\users\convidado\documents\visual studio 2010\Projects\minicursomarcio\minicursomarcio\obj\x86\Debug\minicursomarcio.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\minicursomarcio\minicursomarcio\obj\x86\Debug\minicursomarcio.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\minicursomarcio\minicursomarcio\obj\x86\Debug\minicursomarcio.pdb

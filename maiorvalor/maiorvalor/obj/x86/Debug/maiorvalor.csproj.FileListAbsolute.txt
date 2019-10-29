@@ -1,0 +1,4 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\maiorvalor\maiorvalor\bin\Debug\maiorvalor.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\maiorvalor\maiorvalor\bin\Debug\maiorvalor.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\maiorvalor\maiorvalor\obj\x86\Debug\maiorvalor.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\maiorvalor\maiorvalor\obj\x86\Debug\maiorvalor.pdb
