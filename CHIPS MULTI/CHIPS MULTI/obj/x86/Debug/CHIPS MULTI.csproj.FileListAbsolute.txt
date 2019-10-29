@@ -1,0 +1,11 @@
+c:\users\valdemir\documents\visual studio 2010\Projects\CHIPS MULTI\CHIPS MULTI\bin\Debug\CHIPS MULTI.exe
+c:\users\valdemir\documents\visual studio 2010\Projects\CHIPS MULTI\CHIPS MULTI\bin\Debug\CHIPS MULTI.pdb
+c:\users\valdemir\documents\visual studio 2010\Projects\CHIPS MULTI\CHIPS MULTI\obj\x86\Debug\CHIPS_MULTI.Properties.Resources.resources
+c:\users\valdemir\documents\visual studio 2010\Projects\CHIPS MULTI\CHIPS MULTI\obj\x86\Debug\CHIPS MULTI.csproj.GenerateResource.Cache
+c:\users\valdemir\documents\visual studio 2010\Projects\CHIPS MULTI\CHIPS MULTI\obj\x86\Debug\CHIPS MULTI.exe
+c:\users\valdemir\documents\visual studio 2010\Projects\CHIPS MULTI\CHIPS MULTI\obj\x86\Debug\CHIPS MULTI.pdb
+c:\users\valdemir\documents\visual studio 2010\Projects\CHIPS MULTI\CHIPS MULTI\obj\x86\Debug\CHIPS_MULTI.frmClaro.resources
+c:\users\valdemir\documents\visual studio 2010\Projects\CHIPS MULTI\CHIPS MULTI\bin\Debug\SQLite.Interop.dll
+c:\users\valdemir\documents\visual studio 2010\Projects\CHIPS MULTI\CHIPS MULTI\bin\Debug\System.Data.SQLite.dll
+c:\users\valdemir\documents\visual studio 2010\Projects\CHIPS MULTI\CHIPS MULTI\bin\Debug\System.Data.SQLite.pdb
+c:\users\valdemir\documents\visual studio 2010\Projects\CHIPS MULTI\CHIPS MULTI\obj\x86\Debug\CHIPS MULTI.csprojResolveAssemblyReference.cache
