@@ -1,0 +1,11 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AlugaBuggy_3P_EM_GRUPO\AlugaBuggy_3P_EM_GRUPO\obj\x86\Debug\Login_PREPARA_PORTIFOLIO_3P.carregando.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AlugaBuggy_3P_EM_GRUPO\AlugaBuggy_3P_EM_GRUPO\obj\x86\Debug\Login_PREPARA_PORTIFOLIO_3P.Form1.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AlugaBuggy_3P_EM_GRUPO\AlugaBuggy_3P_EM_GRUPO\obj\x86\Debug\AlugaBuggy_3P_EM_GRUPO.Properties.Resources.resources
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AlugaBuggy_3P_EM_GRUPO\AlugaBuggy_3P_EM_GRUPO\obj\x86\Debug\AlugaBuggy_3P_EM_GRUPO.csproj.GenerateResource.Cache
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AlugaBuggy_3P_EM_GRUPO\AlugaBuggy_3P_EM_GRUPO\bin\Debug\AlugaBuggy_3P_EM_GRUPO.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AlugaBuggy_3P_EM_GRUPO\AlugaBuggy_3P_EM_GRUPO\bin\Debug\AlugaBuggy_3P_EM_GRUPO.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AlugaBuggy_3P_EM_GRUPO\AlugaBuggy_3P_EM_GRUPO\bin\Debug\MySql.Data.dll
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AlugaBuggy_3P_EM_GRUPO\AlugaBuggy_3P_EM_GRUPO\obj\x86\Debug\AlugaBuggy_3P_EM_GRUPO.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AlugaBuggy_3P_EM_GRUPO\AlugaBuggy_3P_EM_GRUPO\obj\x86\Debug\AlugaBuggy_3P_EM_GRUPO.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AlugaBuggy_3P_EM_GRUPO\AlugaBuggy_3P_EM_GRUPO\obj\x86\Debug\AlugaBuggy_3P_EM_GRUPO.csprojResolveAssemblyReference.cache
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\AlugaBuggy_3P_EM_GRUPO\AlugaBuggy_3P_EM_GRUPO\obj\x86\Debug\AlugaBuggy_3P_EM_GRUPO.Aluga.resources
