@@ -1,0 +1,4 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\testeClassesMEtodos\testeClassesMEtodos\bin\Debug\testeClassesMEtodos.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\testeClassesMEtodos\testeClassesMEtodos\bin\Debug\testeClassesMEtodos.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\testeClassesMEtodos\testeClassesMEtodos\obj\x86\Debug\testeClassesMEtodos.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\testeClassesMEtodos\testeClassesMEtodos\obj\x86\Debug\testeClassesMEtodos.pdb

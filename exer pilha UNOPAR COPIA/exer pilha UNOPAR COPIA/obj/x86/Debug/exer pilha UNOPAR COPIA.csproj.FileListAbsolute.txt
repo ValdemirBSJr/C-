@@ -1,0 +1,4 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\exer pilha UNOPAR COPIA\exer pilha UNOPAR COPIA\bin\Debug\exer pilha UNOPAR COPIA.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\exer pilha UNOPAR COPIA\exer pilha UNOPAR COPIA\bin\Debug\exer pilha UNOPAR COPIA.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\exer pilha UNOPAR COPIA\exer pilha UNOPAR COPIA\obj\x86\Debug\exer pilha UNOPAR COPIA.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\exer pilha UNOPAR COPIA\exer pilha UNOPAR COPIA\obj\x86\Debug\exer pilha UNOPAR COPIA.pdb
