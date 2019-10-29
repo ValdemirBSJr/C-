@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WpfApplication1
+namespace WpfAprendendo
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -27,7 +27,17 @@ namespace WpfApplication1
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            
+            var uriSource = new Uri(@"C:\Users\Valdemir\Desktop\DSCF1094.jpg");
+
+            image.Source = new BitmapImage(uriSource);
         }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            Window1 form = new Window1();
+            form.Show();
+        }
+
+        
     }
 }

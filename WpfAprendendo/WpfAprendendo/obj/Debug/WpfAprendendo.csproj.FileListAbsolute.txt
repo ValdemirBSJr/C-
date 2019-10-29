@@ -1,0 +1,16 @@
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\bin\Debug\WpfAprendendo.exe.config
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\bin\Debug\WpfAprendendo.exe
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\bin\Debug\WpfAprendendo.pdb
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\obj\Debug\WpfAprendendo.csprojResolveAssemblyReference.cache
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\obj\Debug\MainWindow.g.cs
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\obj\Debug\App.g.cs
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\obj\Debug\WpfAprendendo_MarkupCompile.cache
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\obj\Debug\WpfAprendendo_MarkupCompile.lref
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\obj\Debug\MainWindow.baml
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\obj\Debug\WpfAprendendo.g.resources
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\obj\Debug\WpfAprendendo.Properties.Resources.resources
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\obj\Debug\WpfAprendendo.csproj.GenerateResource.Cache
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\obj\Debug\WpfAprendendo.exe
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\obj\Debug\WpfAprendendo.pdb
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\obj\Debug\Window1.g.cs
+c:\users\valdemir\documents\visual studio 2015\Projects\WpfAprendendo\WpfAprendendo\obj\Debug\Window1.baml
