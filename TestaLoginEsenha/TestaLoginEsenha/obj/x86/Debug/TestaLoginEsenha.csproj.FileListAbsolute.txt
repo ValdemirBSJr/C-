@@ -1,0 +1,9 @@
+c:\users\valdemir\documents\visual studio 2010\Projects\TestaLoginEsenha\TestaLoginEsenha\bin\Debug\TestaLoginEsenha.exe
+c:\users\valdemir\documents\visual studio 2010\Projects\TestaLoginEsenha\TestaLoginEsenha\bin\Debug\TestaLoginEsenha.pdb
+c:\users\valdemir\documents\visual studio 2010\Projects\TestaLoginEsenha\TestaLoginEsenha\bin\Debug\MySql.Data.dll
+c:\users\valdemir\documents\visual studio 2010\Projects\TestaLoginEsenha\TestaLoginEsenha\obj\x86\Debug\TestaLoginEsenha.Form1.resources
+c:\users\valdemir\documents\visual studio 2010\Projects\TestaLoginEsenha\TestaLoginEsenha\obj\x86\Debug\TestaLoginEsenha.Properties.Resources.resources
+c:\users\valdemir\documents\visual studio 2010\Projects\TestaLoginEsenha\TestaLoginEsenha\obj\x86\Debug\TestaLoginEsenha.csproj.GenerateResource.Cache
+c:\users\valdemir\documents\visual studio 2010\Projects\TestaLoginEsenha\TestaLoginEsenha\obj\x86\Debug\TestaLoginEsenha.exe
+c:\users\valdemir\documents\visual studio 2010\Projects\TestaLoginEsenha\TestaLoginEsenha\obj\x86\Debug\TestaLoginEsenha.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\TestaLoginEsenha\TestaLoginEsenha\obj\x86\Debug\TestaLoginEsenha.csprojResolveAssemblyReference.cache

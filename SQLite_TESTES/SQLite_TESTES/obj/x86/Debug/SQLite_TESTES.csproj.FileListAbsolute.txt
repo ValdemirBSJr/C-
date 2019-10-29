@@ -1,0 +1,12 @@
+C:\Users\Valdemir\documents\visual studio 2010\Projects\SQLite_TESTES\SQLite_TESTES\bin\Debug\SQLite_TESTES.exe
+C:\Users\Valdemir\documents\visual studio 2010\Projects\SQLite_TESTES\SQLite_TESTES\bin\Debug\SQLite_TESTES.pdb
+C:\Users\Valdemir\documents\visual studio 2010\Projects\SQLite_TESTES\SQLite_TESTES\bin\Debug\System.Data.SQLite.dll
+C:\Users\Valdemir\documents\visual studio 2010\Projects\SQLite_TESTES\SQLite_TESTES\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Valdemir\documents\visual studio 2010\Projects\SQLite_TESTES\SQLite_TESTES\obj\x86\Debug\SQLite_TESTES.csprojResolveAssemblyReference.cache
+C:\Users\Valdemir\documents\visual studio 2010\Projects\SQLite_TESTES\SQLite_TESTES\obj\x86\Debug\SQLite_TESTES.Form1.resources
+C:\Users\Valdemir\documents\visual studio 2010\Projects\SQLite_TESTES\SQLite_TESTES\obj\x86\Debug\SQLite_TESTES.Properties.Resources.resources
+C:\Users\Valdemir\documents\visual studio 2010\Projects\SQLite_TESTES\SQLite_TESTES\obj\x86\Debug\SQLite_TESTES.csproj.GenerateResource.Cache
+C:\Users\Valdemir\documents\visual studio 2010\Projects\SQLite_TESTES\SQLite_TESTES\obj\x86\Debug\SQLite_TESTES.exe
+C:\Users\Valdemir\documents\visual studio 2010\Projects\SQLite_TESTES\SQLite_TESTES\obj\x86\Debug\SQLite_TESTES.pdb
+C:\Users\Valdemir\documents\visual studio 2010\Projects\SQLite_TESTES\SQLite_TESTES\bin\Debug\test.exe
+C:\Users\Valdemir\documents\visual studio 2010\Projects\SQLite_TESTES\SQLite_TESTES\bin\Debug\test.pdb

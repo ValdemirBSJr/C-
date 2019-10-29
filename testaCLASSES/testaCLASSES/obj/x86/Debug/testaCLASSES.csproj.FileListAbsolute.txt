@@ -1,0 +1,5 @@
+c:\users\valdemir\documents\visual studio 2010\Projects\testaCLASSES\testaCLASSES\bin\Debug\testaCLASSES.exe
+c:\users\valdemir\documents\visual studio 2010\Projects\testaCLASSES\testaCLASSES\bin\Debug\testaCLASSES.pdb
+c:\users\valdemir\documents\visual studio 2010\Projects\testaCLASSES\testaCLASSES\obj\x86\Debug\testaCLASSES.exe
+c:\users\valdemir\documents\visual studio 2010\Projects\testaCLASSES\testaCLASSES\obj\x86\Debug\testaCLASSES.pdb
+C:\Users\Valdemir\documents\visual studio 2010\Projects\testaCLASSES\testaCLASSES\obj\x86\Debug\testaCLASSES.csprojResolveAssemblyReference.cache
