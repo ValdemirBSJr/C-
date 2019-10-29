@@ -1,0 +1,7 @@
+c:\users\valdemir\documents\visual studio 2010\Projects\mouse_ocultar_mostrar\mouse_ocultar_mostrar\bin\Debug\mouse_ocultar_mostrar.exe
+c:\users\valdemir\documents\visual studio 2010\Projects\mouse_ocultar_mostrar\mouse_ocultar_mostrar\bin\Debug\mouse_ocultar_mostrar.pdb
+c:\users\valdemir\documents\visual studio 2010\Projects\mouse_ocultar_mostrar\mouse_ocultar_mostrar\obj\x86\Debug\mouse_ocultar_mostrar.Form1.resources
+c:\users\valdemir\documents\visual studio 2010\Projects\mouse_ocultar_mostrar\mouse_ocultar_mostrar\obj\x86\Debug\mouse_ocultar_mostrar.Properties.Resources.resources
+c:\users\valdemir\documents\visual studio 2010\Projects\mouse_ocultar_mostrar\mouse_ocultar_mostrar\obj\x86\Debug\mouse_ocultar_mostrar.csproj.GenerateResource.Cache
+c:\users\valdemir\documents\visual studio 2010\Projects\mouse_ocultar_mostrar\mouse_ocultar_mostrar\obj\x86\Debug\mouse_ocultar_mostrar.exe
+c:\users\valdemir\documents\visual studio 2010\Projects\mouse_ocultar_mostrar\mouse_ocultar_mostrar\obj\x86\Debug\mouse_ocultar_mostrar.pdb
