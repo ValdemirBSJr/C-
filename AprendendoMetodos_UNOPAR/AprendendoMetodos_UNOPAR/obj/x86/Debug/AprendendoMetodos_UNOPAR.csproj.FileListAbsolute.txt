@@ -1,0 +1,4 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\AprendendoMetodos_UNOPAR\AprendendoMetodos_UNOPAR\bin\Debug\AprendendoMetodos_UNOPAR.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\AprendendoMetodos_UNOPAR\AprendendoMetodos_UNOPAR\bin\Debug\AprendendoMetodos_UNOPAR.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\AprendendoMetodos_UNOPAR\AprendendoMetodos_UNOPAR\obj\x86\Debug\AprendendoMetodos_UNOPAR.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\AprendendoMetodos_UNOPAR\AprendendoMetodos_UNOPAR\obj\x86\Debug\AprendendoMetodos_UNOPAR.pdb

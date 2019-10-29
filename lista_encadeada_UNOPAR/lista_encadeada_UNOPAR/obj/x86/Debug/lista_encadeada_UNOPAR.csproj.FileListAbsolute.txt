@@ -1,0 +1,4 @@
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\lista_encadeada_UNOPAR\lista_encadeada_UNOPAR\bin\Debug\lista_encadeada_UNOPAR.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\lista_encadeada_UNOPAR\lista_encadeada_UNOPAR\bin\Debug\lista_encadeada_UNOPAR.pdb
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\lista_encadeada_UNOPAR\lista_encadeada_UNOPAR\obj\x86\Debug\lista_encadeada_UNOPAR.exe
+C:\Users\Valdemir\Documents\Visual Studio 2010\Projects\ESTRUTURA DE DADOS EM C#\lista_encadeada_UNOPAR\lista_encadeada_UNOPAR\obj\x86\Debug\lista_encadeada_UNOPAR.pdb

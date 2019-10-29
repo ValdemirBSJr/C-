@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_encadeada_UNOPAR", "lista_encadeada_UNOPAR\lista_encadeada_UNOPAR.csproj", "{CFC3DE5E-3C4F-4BDF-85F1-E0B467B961E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC3DE5E-3C4F-4BDF-85F1-E0B467B961E0}.Debug|x86.ActiveCfg = Debug|x86
+		{CFC3DE5E-3C4F-4BDF-85F1-E0B467B961E0}.Debug|x86.Build.0 = Debug|x86
+		{CFC3DE5E-3C4F-4BDF-85F1-E0B467B961E0}.Release|x86.ActiveCfg = Release|x86
+		{CFC3DE5E-3C4F-4BDF-85F1-E0B467B961E0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
